@@ -1,5 +1,3 @@
-
-
 namespace App_Simples_Cadastro
 {
     public class SerieRepository : IRepository<Serie>
